@@ -21,7 +21,7 @@ ____
 src/
  ├── main/
  |    ├── java/
- |    │    ├── com.example.firstprojectjavaspring/
+ |    │    ├── com.example.First_Spring_Project_Java/
  |    |    |     └──FirstProjectJavaSpringApplication.java  
  |    │    └── controller/
  |    │              └── HelloController.java
@@ -37,7 +37,7 @@ src/
  |
  └── test/
       └── java/
-            └── com.example.firstprojectjavaspring/
+            └── com.example.First_Spring_Project_Java
                    └── FirstProjectJavaSpringApplicationTests.java
 
 ```
@@ -68,6 +68,7 @@ public class HelloController {
         return "greeting";
     }
 }
+
 
 ```
 
