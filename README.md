@@ -86,7 +86,7 @@ ___
 
 ## GREETING PAGE (<mark>/greeting</mark>)
 
-- URL: <mark>http://localhost:8080/greeting?name=Farzeen</mark>
+- URL: <mark>http://localhost:8080/greeting?name=Seturaj</mark>
 - Takes the NAME from the URL
 - Save it in the model
 - Returns "greeting"
